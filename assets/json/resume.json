@@ -165,14 +165,7 @@
     {
       "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "CNN",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["CNN", "Quantum Computing", "Quantum Information", "Quantum Cryptography", "Quantum Communication", "Quantum Teleportation"]
     }
   ],
   "references": [
