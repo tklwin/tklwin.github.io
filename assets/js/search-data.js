@@ -520,6 +520,13 @@ ninja.data = [{
           window.open("https://github.com/tklwin", "_blank");
         },
       },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/theinkyawlwin", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
