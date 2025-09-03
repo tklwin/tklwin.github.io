@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-blog-post-with-burmese-language",
+        },{id: "post-habbit-stacking-အကြောင်း",
+        
+          title: "habbit stacking အကြောင်း",
+        
+        description: "testing article",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/habbit-stacking/";
+          
+        },
+      },{id: "post-a-blog-post-with-burmese-language",
         
           title: "a blog post with burmese language",
         
