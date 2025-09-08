@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 မင်္ဂလာပါ. ကျွန်တော်ကတော့ သိန်းကျော်လွင်ပါ။​ ဒီ `personal website` လေးမှာ ကျွန်တော် စာတွေ ရေးသွားမှာဖြစ်ပါတယ်။
+
+Thein Kyaw Lwin is an IT professional and MSc Data Science student with experience in healthcare data systems, agricultural digital solutions, and IT infrastructure. He has worked with organizations including WHO and CESVI Myanmar, contributing to eHealth platforms and agro-advisory services. He is now focusing on data science with an interest in leveraging AI/ML to create a positive impact in healthcare, agriculture, and international development.
