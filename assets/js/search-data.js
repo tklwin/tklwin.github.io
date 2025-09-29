@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -427,6 +434,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/atomic_habbits/";
+            },},{id: "books-practical-deep-learning-for-cloud-mobile-and-edge",
+          title: 'Practical Deep Learning for Cloud, Mobile and Edge',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/practicaldeeplearning/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
