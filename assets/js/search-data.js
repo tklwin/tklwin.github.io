@@ -429,11 +429,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-atomic-habbits",
-          title: 'Atomic Habbits',
+      },{id: "books-atomic-habits",
+          title: 'Atomic Habits',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/atomic_habbits/";
+              window.location.href = "/books/atomic_habits/";
             },},{id: "books-practical-deep-learning-for-cloud-mobile-and-edge",
           title: 'Practical Deep Learning for Cloud, Mobile and Edge',
           description: "",
