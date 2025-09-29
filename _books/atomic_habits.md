@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Atomic Habbits
+title: Atomic Habits
 author: James Clear
 cover: assets/img/book_covers/atomic-habits-dots.png
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
