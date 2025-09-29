@@ -3,16 +3,16 @@ layout: book-review
 title: Atomic Habbits
 author: James Clear
 cover: assets/img/book_covers/atomic-habits-dots.png
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
+olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+isbn:  # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: selfhelp habits personaldevelopment behaviorchange productivity success
 tags: top-100
 buy_link: https://a.co/d/bSYtvvs
 started: 2024-08-23
 finished: 2024-09-07
 released: 1969
 stars: 5
-goodreads_review: 6318556633
+goodreads_review: 
 status: Finished
 ---
 
