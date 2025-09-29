@@ -3,17 +3,17 @@ layout: book-review
 title: Practical Deep Learning for Cloud, Mobile and Edge
 author: Anirudh Koul, Siddha Ganju and Meher Kasam
 cover: assets/img/book_covers/Practical-Deep-Learning-Book.png
-olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781492034865 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: machine-learning cloud mobile deep-learning artificial-intelligence edge object-detection deep-learning-tutorial
 tags: top-100
 buy_link: https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/
 started: 2025-09-29
-finished: 
+finished:
 released: 2019
 stars: 5
-goodreads_review: 
-status: 
+goodreads_review:
+status:
 ---
 
 Whether you’re a software engineer aspiring to enter the world of deep learning, a veteran data scientist, or a hobbyist with a simple dream of making the next viral AI app, you might have wondered where do I begin? This step-by-step guide teaches you how to build practical deep learning applications for the cloud, mobile, browser, and edge devices using a hands-on approach.
