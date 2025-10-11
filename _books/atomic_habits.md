@@ -10,7 +10,7 @@ tags: top-100
 buy_link: https://a.co/d/bSYtvvs
 started: 2024-08-23
 finished: 2024-09-07
-released: 1969
+released: 2018
 stars: 5
 goodreads_review:
 status: Finished

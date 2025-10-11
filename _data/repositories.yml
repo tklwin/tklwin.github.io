@@ -5,9 +5,9 @@ repo_description_lines_max: 2
 
 github_repos:
   - tklwin/bean-disease-classification-finetuning
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - PracticalDL/Practical-Deep-Learning-Book
+#  - twbs/bootstrap
+#  - jquery/jquery
+#  - FortAwesome/Font-Awesome
+#  - mathjax/MathJax
+#  - jpswalsh/academicons
