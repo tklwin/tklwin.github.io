@@ -429,7 +429,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-atomic-habits",
+      },{id: "books-ကိုယ်ကျင့်အဘိဓမ္မာ",
+          title: 'ကိုယ်ကျင့်အဘိဓမ္မာ',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/KoKyintAbhidhamma/";
+            },},{id: "books-atomic-habits",
           title: 'Atomic Habits',
           description: "",
           section: "Books",handler: () => {
@@ -439,11 +444,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/practicaldeeplearning/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
