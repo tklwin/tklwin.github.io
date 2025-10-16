@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-tweaking-macos-for-1080p-external-display",
+        },{id: "post-meditation-habbit",
+        
+          title: "meditation habbit",
+        
+        description: "how I started meditation habit using Atomic Habbit&#39;s method",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/meditation-habbit/";
+          
+        },
+      },{id: "post-tweaking-macos-for-1080p-external-display",
         
           title: "tweaking macos for 1080p external display",
         
