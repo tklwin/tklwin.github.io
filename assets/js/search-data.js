@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-meditation-habbit",
+        },{id: "post-install-mssql-server-on-mac-m2-using-docker-and-azure-data-studio-md",
+        
+          title: "Install Mssql Server On Mac M2 Using Docker And Azure Data Studio.md",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/install-mssql-server-on-mac-m2-using-docker-and-azure-data-studio.md/";
+          
+        },
+      },{id: "post-meditation-habbit",
         
           title: "meditation habbit",
         
