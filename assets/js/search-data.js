@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-install-mssql-server-on-mac-m2-using-docker-and-azure-data-studio-md",
+        },{id: "post-install-microsoft-sql-server-on-mac-m2-air-using-docker-and-azure-data-studio",
         
-          title: "Install Mssql Server On Mac M2 Using Docker And Azure Data Studio.md",
+          title: "Install Microsoft SQL Server on Mac M2 Air using Docker and Azure Data...",
         
-        description: "",
+        description: "Complete guide to setting up MSSQL Server using Docker on Mac M2 with Azure Data Studio and AdventureWorks sample database",
         section: "Posts",
         handler: () => {
           
