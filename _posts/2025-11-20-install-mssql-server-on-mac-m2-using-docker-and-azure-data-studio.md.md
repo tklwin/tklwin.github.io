@@ -4,8 +4,8 @@ title: Install Microsoft SQL Server on Mac M2 Air using Docker and Azure Data St
 date: 2025-11-20 00:01:00
 description: Complete guide to setting up MSSQL Server using Docker on Mac M2 with Azure Data Studio and AdventureWorks sample database
 tags: mssql mac-m2 docker azure-data-studio
-categories: setup
-thumbnail: assets/img/mssql-00.png
+categories: tips&tricks
+thumbnail: assets/img/mssql.png
 toc:
   sidebar: left
 images:
@@ -20,6 +20,18 @@ Install the required tools:
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) for Mac
 - [Azure Data Studio](https://go.microsoft.com/fwlink/?linkid=2282286) for Mac
+
+## Check Docker Settings (Apple Silicon)
+
+Before creating the container, verify Docker Desktop is configured for Apple Silicon:
+
+1. Open Docker Desktop → Settings → General tab
+2. Ensure **Use the Apple Virtualization framework** is enabled
+3. Enable **Use Rosetta for x86_64/amd64 emulation on Apple Silicon** to support amd64 images
+
+<a href="{{ '/assets/img/mssql-00.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-00.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
+
+_Click image to enlarge - Docker Desktop settings for Apple Silicon and Rosetta_
 
 ## Setting Up SQL Server Container
 
@@ -65,17 +77,22 @@ Right-click on "Databases" folder and select "Restore Database (Preview)":
 
 _Click image to enlarge - Access the restore database feature_
 
+<a href="{{ '/assets/img/mssql-05.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-05.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
+
+_Click image to enlarge - Restore from "Backup file"_
+
 Select the `AdventureWorks2016.bak` file from `/var/opt/mssql/` and complete the restoration:
 
-<a href="{{ '/assets/img/mssql-05.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-05.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
+<a href="{{ '/assets/img/mssql-06.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-06.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
 
 _Click image to enlarge - Restore AdventureWorks database from backup file_
 
 ## Running Queries
 
 You can now execute SQL queries against the AdventureWorks database in Azure Data Studio:
+<a href="{{ '/assets/img/mssql-07.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-07.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
 
-<a href="{{ '/assets/img/mssql-06.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-06.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
+<a href="{{ '/assets/img/mssql-08.png' | relative_url }}" data-lightbox="mssql-setup"><img src="{{ '/assets/img/mssql-08.png' | relative_url }}" style="max-width: 200px; height: auto;" /></a>
 
 _Click image to enlarge - Successfully connected and running queries on AdventureWorks database_
 

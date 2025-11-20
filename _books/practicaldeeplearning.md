@@ -28,5 +28,3 @@ Relying on years of industry experience transforming deep learning research into
 - Discover 50+ practical tips for maximizing model accuracy and speed, debugging, and scaling to millions of users
 
 Original Github Repo for Codes: [Link](https://github.com/PracticalDL/Practical-Deep-Learning-Book)
-
-Book PDF: [Link](/assets/pdf/Practical%20Deep%20Learning%20for%20Cloud,%20Mobile,%20and%20Edge.pdf)
