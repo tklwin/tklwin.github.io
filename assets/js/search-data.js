@@ -131,7 +131,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@youtube.com/@tklwin1", "_blank");
+          window.open("https://youtube.com/@tklwin1", "_blank");
         },
       },{
       id: 'light-theme',
