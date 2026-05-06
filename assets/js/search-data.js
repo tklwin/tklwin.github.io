@@ -112,7 +112,27 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-bean-disease-classification",
+          title: 'Bean Disease Classification',
+          description: "Stepwise CNN fine-tuning achieving 98.86% test accuracy — MSDS coursework research",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bean_disease_classification/";
+            },},{id: "projects-chickpea-fusarium-wilt-detector",
+          title: 'Chickpea Fusarium Wilt Detector',
+          description: "Hybrid lightweight CNN for on-device plant disease detection — MSc Thesis, Batangas State University (2024–2026)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chickpea_fusarium_wilt/";
+            },},{id: "projects-shwe-taungthuu",
+          title: 'Shwe Taungthuu',
+          description: "Gemini 2.5 Flash-powered bilingual agricultural advisory agent for Myanmar farmers — Google Build with AI MMDT 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shwe_taungthuu/";
+            },},{id: "projects-wikipedia-web-traffic-prediction",
+          title: 'Wikipedia Web Traffic Prediction',
+          description: "Comparative time-series forecasting study on 145,000 Wikipedia articles — co-authored research paper under revision",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wikipedia_traffic_prediction/";
+            },},{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
