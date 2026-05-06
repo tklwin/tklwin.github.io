@@ -2,96 +2,146 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Thein Kyaw Lwin
+    - name: Location
+      value: Batangas, Philippines
+    - name: Email
+      value: thein.kyaw.lwin.official@gmail.com
     - name: Languages
-      value: English, German
+      value: Burmese (Native), English (Full Working Proficiency)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Data Science
+      institution: Batangas State University, Batangas, Philippines
+      year: 2024–2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Development of Hybrid Lightweight CNN Integrating SqueezeNet and CBAM for Edge Deployment Using Multi-Data Sources"
+        - "Relevant coursework: Fundamentals of Data Science, Big Data and Cloud Computing, Machine Learning and Neural Networks, Time-Series Analysis, Mathematical and Computational Theories"
+    - title: Bachelor of Computer Technology (Computer Communication and Networks)
+      institution: University of Computer Studies, Mandalay, Myanmar
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - "Relevant coursework: Data Mining, Programming (C, C++, Java), Data Structures & Algorithms, DBMS, Networking & Security, Linear Algebra, Statistics, Project Management"
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: IT Support Officer
+      institution: World Health Organization, Nay Pyi Taw, Myanmar
+      year: 2023–2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Administered DHIS2 and OpenMRS infrastructure (PostgreSQL, Java Tomcat, NGINX, Linux) supporting the national HIV/AIDS eHealth program for 1,000+ users, in collaboration with UNAIDS, ICAP, HISP India, and CHAI
+        - Maintained 99.99% uptime on healthcare data servers; managed user accounts, metadata, and national health data reporting workflows
+        - Led user onboarding, IT asset management, and cybersecurity initiatives; collaborated with UN agencies and national health authorities on data governance and compliance standards
+    - title: Mobile Application cum IT Technician
+      institution: CESVI Myanmar, Yangon & Nyaung U, Myanmar
+      year: 2020–2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Built and maintained end-to-end data pipelines for mobile ICT-enabled extension services reaching 130 villages and 26,234 households across Myanmar's Dry Zone
+        - Co-developed GIS dashboards and data workflows for 6 agriculture and rural development projects funded by UNDP, FAO, SDC, AICS, and CESVI
+        - Trained 2,000+ farmers in mobile application use and digital literacy
+    - title: IT Service Engineer
+      institution: Huawei Technologies Co., Ltd., Yangon, Myanmar
+      year: 2018–2020
       description:
+        - Delivered and commissioned 7 nationwide carrier and enterprise IT infrastructure projects for MPT, Ooredoo, Telenor, and CB Bank
+        - Maintained MPT Private Cloud operations (ECS, EVS, VPC, OceanStor); configured Eudemon 8000E firewalls, VPNs, DNAT/SNAT, and SAN zoning
+    - title: Junior Network Engineer
+      institution: ISGM (ICT Star Group Myanmar) Co., Ltd., Yangon, Myanmar
+      year: 2017–2018
+      description:
+        - Supported NEC Japan engineers in infrastructure audits and optical network expansion across metro and national backbone networks
+        - Managed blade servers, virtualization platforms, storage systems, and Fortigate firewall configuration
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Featured Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://myanmar-agri-agent-599279558972.us-central1.run.app">Shwe Taungthuu — Myanmar Agricultural Advisory Agent</a>
+      year: 2026
+      description:
+        - AI-powered bilingual agricultural advisory app built and deployed at Google Developers Community Build with AI MMDT 2026
+        - Full-stack application using Google Gemini 2.5 Flash via Vertex AI; Python + FastAPI backend deployed on Google Cloud Run
+        - "Tech Stack: Python · FastAPI · Gemini 2.5 Flash · Vertex AI · Google Cloud Run · Web Speech API · Tailwind CSS"
+    - title: Chickpea Fusarium Wilt Detector — MSc Thesis
+      year: 2024–2026
+      description:
+        - Novel hybrid CNN achieving 82.09% cross-domain accuracy at 0.870 MB; validated on 115 real Android devices via Google AI Edge Portal
+        - Bilingual offline Android app (Kotlin, Jetpack Compose) for Myanmar smallholder farmers — full methodology reserved for upcoming publications
+        - "Tech Stack: PyTorch · TFLite/LiteRT · Kotlin · Jetpack Compose · Roboflow · Google AI Edge Portal"
+    - title: Wikipedia Web Traffic Prediction via Time Series Modeling
+      year: 2025
+      description:
+        - Comparative study of 7 forecasting models on a 145,000-article Wikipedia Kaggle dataset
+        - Co-authored with Prof. Sandhya Avasthi, ABES Engineering College, India; submitted to journal (under revision)
+    - title: Bean Disease Classification via Stepwise CNN Fine-Tuning
+      year: 2025
+      description:
+        - Benchmarked 5 pretrained CNN architectures; designed a stepwise fine-tuning strategy achieving 98.86% test accuracy
+        - "Tech Stack: Python · TensorFlow/Keras · Kaggle GPU"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Certifications
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Networking
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Cisco Certified Network Associate (CCNA) — Expires July 2026
+    - title: Machine Learning & AI
       items:
-        - Description 1.
-        - Description 2.
+        - Convolutional Neural Networks in TensorFlow (DeepLearning.AI)
+        - Introduction to TensorFlow for AI, ML, and Deep Learning (DeepLearning.AI)
+        - Foundations of Deep Learning A+ (Myanmar Data Tech)
+        - Introduction to Natural Language Processing in Python (DataCamp)
+    - title: Data & Analytics
+      items:
+        - PY102 Data Structure B (Myanmar Data Tech)
+        - Intermediate SQL (DataCamp)
+        - Analyzing Data with Microsoft SQL, Power BI and Python
+    - title: Cloud & Infrastructure
+      items:
+        - Building Serverless Applications in AWS
+        - Linux System Administration
+        - DHIS2 — Introduction, Data Capture, Analysis, Customization, Events
+        - NEC — NCPC (Smart Face Authentication), NCSE (NEC Server Hardware)
+    - title: Language
+      items:
+        - IELTS Academic — Overall Band Score 6.5
 
-- title: Other Interests
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Machine Learning & Deep Learning
+      items:
+        - "Python · PyTorch · TensorFlow · Keras · Scikit-learn · SciPy · NumPy · Pandas"
+        - "CNN architecture design · attention mechanisms (CBAM) · transfer learning · INT8 static quantization"
+        - "Statistical validation (Wilcoxon signed-rank, two-proportion z-test, Wilson CI, McNemar's test)"
+    - title: Generative AI & LLM Integration
+      items:
+        - "Google Gemini API (2.5 Flash) · Vertex AI · ADC · LLM prompt engineering"
+        - "FastAPI · Google Cloud Run · Web Speech API · Gemini CLI"
+    - title: MLOps & Experiment Tracking
+      items:
+        - "Weights & Biases (WandB) · Kaggle Notebooks (NVIDIA P100/T4)"
+        - "LiteRT conversion · INT8 quantization · Google AI Edge Portal"
+    - title: Mobile Development
+      items:
+        - "Kotlin · Jetpack Compose · Material Design 3 · Android SDK · TFLite Interpreter API"
+    - title: Data & Analytics
+      items:
+        - "R · SQL · Power BI · Looker Studio · QGIS · Excel · SPSS"
+    - title: Cloud & Infrastructure
+      items:
+        - "AWS · GCP · Azure · Huawei Cloud · OpenStack · VMware · Docker"
+    - title: Networking & Security
+      items:
+        - "Cisco · MikroTik · Huawei · FortiGate · Linux System Administration · Zabbix"
+
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Precision Agriculture
+    - AI/ML for Social Good
+    - ICT4D
+    - Digital Public Goods
+    - Open Source

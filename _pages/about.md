@@ -27,4 +27,6 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-**Thein Kyaw Lwin** is an IT professional and MSc Data Science student with experience in healthcare data systems, agricultural digital solutions, and IT infrastructure. He has worked with organizations including WHO and CESVI Myanmar, contributing to eHealth platforms and agro-advisory services. He is now focusing on data science with an interest in leveraging AI/ML to create a positive impact in healthcare, agriculture, and international development.
+**Thein Kyaw Lwin** is an AI/ML practitioner and data scientist with 7+ years of field-embedded technology experience across precision agriculture, public health, and enterprise IT. He designed and deployed a hybrid lightweight CNN (SqueezeNet CBAM V8) achieving 82.09% cross-domain accuracy at only 0.870 MB — validated on 115 real Android devices via Google AI Edge Portal. He also built and shipped a Gemini 2.5 Flash-powered bilingual agricultural advisory agent on Google Cloud Run, presented at Google Developers Community Build with AI MMDT 2026.
+
+His deep domain expertise spans precision agriculture, ICT4D, and data-driven rural development, with a proven track record of building end-to-end AI pipelines from field data collection through to production deployment. He is committed to applying AI and machine learning for food security and sustainable agriculture in underserved communities.

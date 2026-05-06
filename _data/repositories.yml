@@ -4,8 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - tklwin/chickpea-mobile
   - tklwin/bean-disease-classification-finetuning
-  - PracticalDL/Practical-Deep-Learning-Book
 #  - twbs/bootstrap
 #  - jquery/jquery
 #  - FortAwesome/Font-Awesome
