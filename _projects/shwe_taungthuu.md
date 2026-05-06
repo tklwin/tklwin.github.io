@@ -10,7 +10,7 @@ related_publications: false
 
 **Google Developers Community Build with AI MMDT 2026** | 2026
 
-*AI-powered bilingual agricultural advisory app for Myanmar farmers*
+_AI-powered bilingual agricultural advisory app for Myanmar farmers_
 
 [**Live Application →**](https://myanmar-agri-agent-599279558972.us-central1.run.app)
 

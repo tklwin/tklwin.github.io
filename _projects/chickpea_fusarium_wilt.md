@@ -10,7 +10,7 @@ related_publications: false
 
 **MSc Thesis Research** | Batangas State University | 2024–2026
 
-*Full methodology and dataset details are reserved for upcoming journal and conference publications.*
+_Full methodology and dataset details are reserved for upcoming journal and conference publications._
 
 ---
 

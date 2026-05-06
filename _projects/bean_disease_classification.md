@@ -10,7 +10,7 @@ related_publications: false
 
 **Research Paper** | MSDS Coursework | 2025
 
-*"Improving Bean Disease Classification with Stepwise Fine-tuning of CNN-based Transfer Learning Model"*
+_"Improving Bean Disease Classification with Stepwise Fine-tuning of CNN-based Transfer Learning Model"_
 
 ### Overview
 
@@ -19,7 +19,7 @@ Benchmarked **5 pretrained CNN architectures** on a combined bean leaf disease d
 ### Architectures Benchmarked
 
 - VGG16
-- ResNet50 *(selected as optimal backbone)*
+- ResNet50 _(selected as optimal backbone)_
 - DenseNet121
 - EfficientNet-B0
 - MobileNetV2
