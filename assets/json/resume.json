@@ -1,24 +1,29 @@
 {
   "basics": {
     "name": "Thein Kyaw Lwin",
-    "label": "Data Scientist",
+    "label": "AI/ML Practitioner & Data Scientist",
     "image": "",
-    "email": "",
-    "phone": "",
+    "email": "thein.kyaw.lwin.official@gmail.com",
+    "phone": "+63-991-260-5406",
     "url": "https://tklwin.github.io/",
-    "summary": "A guy who wants to help those in need",
+    "summary": "AI/ML practitioner and data scientist with 7+ years of field-embedded technology experience across precision agriculture, public health, and enterprise IT. Committed to applying AI and machine learning for food security and sustainable agriculture in underserved communities.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Batangas",
+      "countryCode": "PH",
+      "region": "Batangas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "tklwin",
+        "url": "https://github.com/tklwin"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "theinkyawlwin",
+        "url": "https://www.linkedin.com/in/theinkyawlwin/"
       }
     ]
   },
@@ -26,127 +31,241 @@
     {
       "name": "World Health Organization",
       "position": "IT Support Officer",
-      "url": "https://example.com",
+      "url": "https://www.who.int/",
       "startDate": "2023-05-01",
       "endDate": "2024-07-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "summary": "Administered DHIS2 and OpenMRS infrastructure supporting the national HIV/AIDS eHealth program for 1,000+ users, in collaboration with UNAIDS, ICAP, HISP India, and CHAI.",
+      "highlights": [
+        "Maintained 99.99% uptime on healthcare data servers; managed user accounts, metadata, and national health data reporting workflows for on-premises and cloud-based systems",
+        "Led user onboarding, IT asset management, and cybersecurity initiatives; collaborated with UN agencies and national health authorities on data governance and compliance standards",
+        "Stack: PostgreSQL · Java Tomcat · NGINX · Linux · DHIS2 · OpenMRS"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "CESVI Myanmar",
+      "position": "Mobile Application cum IT Technician",
+      "url": "https://www.cesvi.eu/",
+      "startDate": "2020-03-01",
+      "endDate": "2023-04-30",
+      "summary": "Built and maintained end-to-end data pipelines for mobile ICT-enabled extension services reaching 130 villages and 26,234 households across Myanmar's Dry Zone.",
+      "highlights": [
+        "Co-developed GIS dashboards and data workflows for 6 agriculture and rural development projects funded by UNDP, FAO, SDC, AICS, and CESVI",
+        "Trained 2,000+ farmers in mobile application use and digital literacy",
+        "Stack: KoBoToolbox · QGIS · Looker Studio · Esper · Power BI"
+      ]
+    },
+    {
+      "name": "Huawei Technologies Co., Ltd.",
+      "position": "IT Service Engineer",
+      "url": "https://www.huawei.com/",
+      "startDate": "2018-11-01",
+      "endDate": "2020-02-28",
+      "summary": "Delivered and commissioned 7 nationwide carrier and enterprise IT infrastructure projects for MPT, Ooredoo, Telenor, and CB Bank.",
+      "highlights": [
+        "Maintained MPT Private Cloud operations (ECS, EVS, VPC, OceanStor); configured Eudemon 8000E firewalls, VPNs, DNAT/SNAT, and SAN zoning",
+        "Developed technical documentation (LLDs, HLDs, SOPs, MOPs) and trained client staff; collaborated with Huawei R&D and GTAC for SLA compliance",
+        "Stack: FusionCloud · FusionCube · NetEco · OpenStack · Huawei Cloud"
+      ]
+    },
+    {
+      "name": "ISGM (ICT Star Group Myanmar) Co., Ltd.",
+      "position": "Junior Network Engineer",
+      "url": "",
+      "startDate": "2017-09-01",
+      "endDate": "2018-11-30",
+      "summary": "Supported NEC Japan engineers in infrastructure audits and optical network expansion across metro and national backbone networks.",
+      "highlights": [
+        "Managed blade servers, virtualization platforms, storage systems, and Fortigate firewall configuration",
+        "Implemented wireless (Unifi AP), monitoring (Zabbix), and authentication (NEC SFA) systems"
+      ]
+    },
+    {
+      "name": "Netpro Myanmar Co., Ltd.",
+      "position": "Junior Network Engineer (Internship)",
+      "url": "",
+      "startDate": "2017-05-01",
+      "endDate": "2017-08-31",
+      "summary": "Assisted senior engineers in deploying and configuring enterprise network infrastructure for internal systems and client projects.",
+      "highlights": [
+        "Gained hands-on experience with VoIP (Yeastar), CCTV (Dahua, HIKVISION), GPS tracking (Teltonika), and network equipment (MikroTik, Ubiquiti)"
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
+    {
+      "institution": "Batangas State University",
+      "location": "Batangas, Philippines",
+      "url": "https://www.batstate-u.edu.ph/",
+      "area": "Data Science",
+      "studyType": "Master of Science",
+      "startDate": "2024-09-01",
+      "endDate": "2026-05-31",
+      "score": "",
+      "courses": [
+        "Fundamentals of Data Science",
+        "Big Data and Cloud Computing",
+        "Machine Learning and Neural Networks",
+        "Time-Series Analysis",
+        "Mathematical and Computational Theories"
+      ]
+    },
     {
       "institution": "University of Computer Studies, Mandalay",
       "location": "Mandalay, Myanmar",
       "url": "https://www.ucsm.edu.mm/",
-      "area": "Computer Communication and Network",
-      "studyType": "Bachelor",
-      "startDate": "2012-01-01",
-      "endDate": "2017-01-01",
-      "score": "10",
-      "courses": ["Computer Networking", "IT Infrastructure"]
+      "area": "Computer Communication and Networks",
+      "studyType": "Bachelor of Computer Technology",
+      "startDate": "2012-12-01",
+      "endDate": "2018-02-28",
+      "score": "",
+      "courses": [
+        "Data Mining",
+        "Programming (C, C++, Java)",
+        "Data Structures & Algorithms",
+        "DBMS",
+        "Networking & Security",
+        "Linear Algebra",
+        "Statistics",
+        "Project Management"
+      ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "date": "2023-07-01",
+      "issuer": "Cisco",
+      "url": "",
+      "icon": "fa-solid fa-network-wired"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Convolutional Neural Networks in TensorFlow",
+      "date": "2023-01-01",
+      "issuer": "DeepLearning.AI",
+      "url": "",
+      "icon": "fa-solid fa-brain"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Introduction to TensorFlow for AI, ML, and Deep Learning",
+      "date": "2023-01-01",
+      "issuer": "DeepLearning.AI",
+      "url": "",
+      "icon": "fa-solid fa-brain"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Foundations of Deep Learning A+",
+      "date": "2023-01-01",
+      "issuer": "Myanmar Data Tech",
+      "url": "",
+      "icon": "fa-solid fa-microchip"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Introduction to Natural Language Processing in Python",
+      "date": "2023-01-01",
+      "issuer": "DataCamp",
+      "url": "",
+      "icon": "fa-solid fa-comment-dots"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Intermediate SQL",
+      "date": "2023-01-01",
+      "issuer": "DataCamp",
+      "url": "",
+      "icon": "fa-solid fa-database"
+    },
+    {
+      "name": "Building Serverless Applications in AWS",
+      "date": "2023-01-01",
+      "issuer": "AWS",
+      "url": "",
+      "icon": "fa-solid fa-cloud"
+    },
+    {
+      "name": "Linux System Administration",
+      "date": "2023-01-01",
+      "issuer": "",
+      "url": "",
+      "icon": "fa-brands fa-linux"
+    },
+    {
+      "name": "IELTS Academic — Overall Band Score 6.5",
+      "date": "2023-01-01",
+      "issuer": "British Council / IDP",
+      "url": "",
+      "icon": "fa-solid fa-language"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Wikipedia Web Traffic Prediction via Time Series Modeling",
+      "publisher": "Journal (Under Revision)",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": "Comparative study of 7 time-series forecasting models — Moving Average, Exponential Smoothing, ARMA, ARIMA, Auto-ARIMA, Prophet, and LSTM — on a 145,000-article Wikipedia Kaggle dataset. Co-authored with Prof. Sandhya Avasthi, ABES Engineering College, India."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning & Deep Learning",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "CNN Architecture Design",
+        "Attention Mechanisms (CBAM)",
+        "Transfer Learning",
+        "INT8 Quantization",
+        "Grad-CAM"
       ]
+    },
+    {
+      "name": "Generative AI & LLM Integration",
+      "level": "Advanced",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Google Gemini API (2.5 Flash)",
+        "Vertex AI",
+        "Application Default Credentials",
+        "LLM Prompt Engineering",
+        "FastAPI",
+        "Google Cloud Run"
+      ]
+    },
+    {
+      "name": "MLOps & Experiment Tracking",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-flask",
+      "keywords": ["Weights & Biases (WandB)", "Kaggle Notebooks", "LiteRT Conversion", "Google AI Edge Portal", "GitHub Codespaces"]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-mobile-screen",
+      "keywords": ["Kotlin", "Jetpack Compose", "Material Design 3", "Android SDK", "TFLite Interpreter API"]
+    },
+    {
+      "name": "Data & Analytics",
+      "level": "Advanced",
+      "icon": "fa-solid fa-chart-bar",
+      "keywords": ["R", "SQL", "Power BI", "Looker Studio", "QGIS", "SPSS"]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cloud",
+      "keywords": ["AWS", "GCP", "Azure", "Huawei Cloud", "OpenStack", "VMware", "Docker"]
+    },
+    {
+      "name": "Networking & Security",
+      "level": "Advanced",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": ["Cisco", "MikroTik", "Huawei", "FortiGate", "Linux Sysadmin", "Zabbix"]
     }
   ],
   "languages": [
@@ -157,37 +276,63 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Full Working Proficiency (IELTS 6.5)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Deep Learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["CNN", "Quantum Computing", "Quantum Information", "Quantum Cryptography", "Quantum Communication", "Quantum Teleportation"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Precision Agriculture",
+      "icon": "fa-solid fa-seedling",
+      "keywords": ["Plant Disease Detection", "Edge AI", "Smallholder Farmers"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "AI/ML for Social Good",
+      "icon": "fa-solid fa-heart",
+      "keywords": ["Food Security", "SDG 1", "SDG 2", "Underserved Communities"]
+    },
+    {
+      "name": "ICT4D",
+      "icon": "fa-solid fa-globe",
+      "keywords": ["Digital Public Goods", "Open Source", "Rural Development"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Shwe Taungthuu — Myanmar Agricultural Advisory Agent",
+      "summary": "AI-powered bilingual agricultural advisory app for Myanmar farmers. Built with Google Gemini 2.5 Flash via Vertex AI; Python + FastAPI backend deployed on Google Cloud Run. Presented at Google Developers Community Build with AI MMDT 2026.",
+      "highlights": [
+        "Burmese voice and text input with structured advisory responses in real time",
+        "Voice History feature for replay of original queries — designed for low-literacy, field-usability contexts",
+        "Keyless cloud authentication via Application Default Credentials (ADC)"
+      ],
+      "startDate": "2026-01-01",
+      "endDate": "2026-05-01",
+      "url": "https://myanmar-agri-agent-599279558972.us-central1.run.app"
+    },
+    {
+      "name": "Chickpea Fusarium Wilt Detector",
+      "summary": "MSc thesis research — hybrid lightweight CNN for on-device plant disease detection. Fully offline bilingual Android app (English + Myanmar Unicode) for smallholder farmers. Full methodology reserved for upcoming publications.",
+      "highlights": [
+        "82.09% cross-domain accuracy at 0.870 MB; validated on 115 real Android devices via Google AI Edge Portal",
+        "Worst-case inference: 73.7 ms on low-tier CPU-only hardware (Android 9.0+, 2 GB RAM compatible)",
+        "Personally collected field dataset from Myanmar farming communities with expert agronomist annotation"
+      ],
+      "startDate": "2024-09-01",
+      "endDate": "2026-05-31",
+      "url": "https://tklwin.github.io/projects/chickpea_fusarium_wilt/"
+    },
+    {
+      "name": "Bean Disease Classification via Stepwise CNN Fine-Tuning",
+      "summary": "Benchmarked 5 pretrained CNN architectures; designed a stepwise fine-tuning strategy achieving 98.86% test accuracy on a combined bean leaf disease dataset.",
+      "highlights": [
+        "Identified ResNet50 as optimal backbone through systematic comparative evaluation",
+        "Stepwise layer unfreezing to adapt ImageNet representations to the plant disease domain"
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-30",
+      "url": "https://github.com/tklwin/bean-disease-classification-finetuning"
     }
   ]
 }
