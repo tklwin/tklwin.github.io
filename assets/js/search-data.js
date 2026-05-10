@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Selected AI/ML, data science, edge AI, and ICT4D projects aligned with production deployment and applied research roles.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Current role-focused CV for AI/ML Engineer, Data Scientist, AgTech, ICT4D, and mission-aligned technology opportunities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -129,6 +129,16 @@ ninja.data = [{
           description: "Hybrid lightweight CNN for on-device plant disease detection — MSc Thesis, Batangas State University (2024–2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chickpea_fusarium_wilt/";
+            },},{id: "projects-ml-algorithms-from-scratch",
+          title: 'ML Algorithms from Scratch',
+          description: "Linear Regression, Logistic Regression, Decision Tree, KNN, and Naive Bayes implemented from scratch using NumPy — MSDS Coursework",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ml_algorithms_from_scratch/";
+            },},{id: "projects-mmdt-intro-to-deep-learning-projects",
+          title: 'MMDT Intro to Deep Learning Projects',
+          description: "Four applied deep-learning projects covering tabular regression, NLP classification, CNN benchmarking, and BERT-based geocoding",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mmdt_deep_learning_projects/";
             },},{id: "projects-shwe-taungthuu",
           title: 'Shwe Taungthuu',
           description: "Gemini 2.5 Flash-powered bilingual agricultural advisory agent for Myanmar farmers — Google Build with AI MMDT 2026",
