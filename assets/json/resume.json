@@ -292,7 +292,15 @@
       "name": "MLOps & Experiment Tracking",
       "level": "Intermediate",
       "icon": "fa-solid fa-flask",
-      "keywords": ["Weights & Biases (WandB)", "Kaggle Notebooks (NVIDIA P100/T4)", "LiteRT Conversion", "INT8 Quantization Pipeline", "Google AI Edge Portal", "GitHub Codespaces", "ptflops"]
+      "keywords": [
+        "Weights & Biases (WandB)",
+        "Kaggle Notebooks (NVIDIA P100/T4)",
+        "LiteRT Conversion",
+        "INT8 Quantization Pipeline",
+        "Google AI Edge Portal",
+        "GitHub Codespaces",
+        "ptflops"
+      ]
     },
     {
       "name": "Mobile Development",
@@ -316,7 +324,16 @@
       "name": "Networking & Security",
       "level": "Advanced",
       "icon": "fa-solid fa-network-wired",
-      "keywords": ["Cisco", "MikroTik", "Huawei", "FortiGate", "Linux System Administration", "Windows Server Administration", "Zabbix", "Remote Support"]
+      "keywords": [
+        "Cisco",
+        "MikroTik",
+        "Huawei",
+        "FortiGate",
+        "Linux System Administration",
+        "Windows Server Administration",
+        "Zabbix",
+        "Remote Support"
+      ]
     },
     {
       "name": "Data Collection & Management",
@@ -334,7 +351,14 @@
       "name": "Professional Competencies",
       "level": "Advanced",
       "icon": "fa-solid fa-people-group",
-      "keywords": ["Capacity Building", "Cross-cultural Communication", "Stakeholder Engagement", "Training & Facilitation", "Field Deployment", "Adaptability"]
+      "keywords": [
+        "Capacity Building",
+        "Cross-cultural Communication",
+        "Stakeholder Engagement",
+        "Training & Facilitation",
+        "Field Deployment",
+        "Adaptability"
+      ]
     }
   ],
   "languages": [
