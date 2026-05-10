@@ -6,6 +6,7 @@ img: assets/img/projects/bean_disease_thumb.jpg
 importance: 4
 category: work
 related_publications: false
+github: https://github.com/tklwin/bean-disease-classification-finetuning
 ---
 
 **Research Paper** | MSDS Coursework | 2025

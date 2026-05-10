@@ -7,8 +7,23 @@
       value: Batangas, Philippines
     - name: Email
       value: thein.kyaw.lwin.official@gmail.com
+    - name: Phone
+      value: +63-991-260-5406
+    - name: Portfolio
+      value: <a href="https://tklwin.github.io/">tklwin.github.io</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/theinkyawlwin/">linkedin.com/in/theinkyawlwin</a>
+    - name: GitHub
+      value: <a href="https://github.com/tklwin">github.com/tklwin</a>
     - name: Languages
-      value: Burmese (Native), English (Full Working Proficiency)
+      value: Burmese (Native), English (Full Working Proficiency, IELTS 6.5)
+
+- title: Role Focus
+  type: list
+  contents:
+    - AI/ML Engineer, Data Scientist, AI Engineer, AgTech, ICT4D, and mission-aligned technology roles
+    - Edge AI, computer vision, generative AI integration, cloud deployment, and field data systems
+    - Applying AI/ML to agriculture, public health, food security, and low-connectivity environments
 
 - title: Education
   type: time_table
@@ -17,13 +32,14 @@
       institution: Batangas State University, Batangas, Philippines
       year: 2024–2026
       description:
+        - IIE Myanmar Student Emergency Support (MSES) Fund Grantee — Institute of International Education
         - "Thesis: Development of Hybrid Lightweight CNN Integrating SqueezeNet and CBAM for Edge Deployment Using Multi-Data Sources"
-        - "Relevant coursework: Fundamentals of Data Science, Big Data and Cloud Computing, Machine Learning and Neural Networks, Time-Series Analysis, Mathematical and Computational Theories"
+        - "Relevant coursework: Fundamentals of Data Science, Big Data and Cloud Computing, Machine Learning and Neural Networks, Time-Series Analysis, Mathematical and Computational Theories, Seminars in Data Science"
     - title: Bachelor of Computer Technology (Computer Communication and Networks)
       institution: University of Computer Studies, Mandalay, Myanmar
       year: 2018
       description:
-        - "Relevant coursework: Data Mining, Programming (C, C++, Java), Data Structures & Algorithms, DBMS, Networking & Security, Linear Algebra, Statistics, Project Management"
+        - "Relevant coursework: Programming, Data Structures & Algorithms, Systems Analysis & Design, DBMS, Networking & Security, Advanced Networks, Data Mining, Linear Algebra, Statistics, Embedded Systems & HCI, Project Management"
 
 - title: Work Experience
   type: time_table
@@ -33,27 +49,35 @@
       year: 2023–2024
       description:
         - Administered DHIS2 and OpenMRS infrastructure (PostgreSQL, Java Tomcat, NGINX, Linux) supporting the national HIV/AIDS eHealth program for 1,000+ users, in collaboration with UNAIDS, ICAP, HISP India, and CHAI
-        - Maintained 99.99% uptime on healthcare data servers; managed user accounts, metadata, and national health data reporting workflows
-        - Led user onboarding, IT asset management, and cybersecurity initiatives; collaborated with UN agencies and national health authorities on data governance and compliance standards
+        - Maintained 99.99% uptime on healthcare data servers; managed user accounts, metadata, and national health data reporting workflows for on-premises and cloud systems
+        - Designed and maintained data workflows from field data collection through national health reporting, ensuring accuracy, traceability, and compliance with UN governance standards
+        - Led user onboarding, IT asset management, cybersecurity initiatives, and collaboration with UN agencies and national health authorities
     - title: Mobile Application cum IT Technician
       institution: CESVI Myanmar, Yangon & Nyaung U, Myanmar
       year: 2020–2023
       description:
         - Built and maintained end-to-end data pipelines for mobile ICT-enabled extension services reaching 130 villages and 26,234 households across Myanmar's Dry Zone
         - Co-developed GIS dashboards and data workflows for 6 agriculture and rural development projects funded by UNDP, FAO, SDC, AICS, and CESVI
-        - Trained 2,000+ farmers in mobile application use and digital literacy
+        - Digitized agro-advisories into mobile formats and trained 2,000+ farmers in mobile application use and digital literacy
+        - Served as IT focal point for CESVI Myanmar systems administration, network maintenance, and hardware/software support
     - title: IT Service Engineer
       institution: Huawei Technologies Co., Ltd., Yangon, Myanmar
       year: 2018–2020
       description:
         - Delivered and commissioned 7 nationwide carrier and enterprise IT infrastructure projects for MPT, Ooredoo, Telenor, and CB Bank
-        - Maintained MPT Private Cloud operations (ECS, EVS, VPC, OceanStor); configured Eudemon 8000E firewalls, VPNs, DNAT/SNAT, and SAN zoning
+        - Managed site surveys, hardware installation, system integration, user acceptance testing, technical documentation, and SLA collaboration with Huawei R&D and GTAC
+        - Maintained MPT Private Cloud operations and configured firewalls, VPNs, DNAT/SNAT, and SAN zoning
     - title: Junior Network Engineer
       institution: ISGM (ICT Star Group Myanmar) Co., Ltd., Yangon, Myanmar
       year: 2017–2018
       description:
         - Supported NEC Japan engineers in infrastructure audits and optical network expansion across metro and national backbone networks
-        - Managed blade servers, virtualization platforms, storage systems, and Fortigate firewall configuration
+        - Managed blade servers, virtualization platforms, storage systems, Fortigate firewall configuration, Zabbix monitoring, and end-user IT support
+    - title: Junior Network Engineer (Internship)
+      institution: Netpro Myanmar Co., Ltd., Yangon, Myanmar
+      year: 2017
+      description:
+        - Assisted senior engineers in deploying and configuring enterprise network infrastructure, VoIP, CCTV, GPS tracking, and network equipment
 
 - title: Featured Projects
   type: time_table
@@ -61,49 +85,57 @@
     - title: <a href="https://myanmar-agri-agent-599279558972.us-central1.run.app">Shwe Taungthuu — Myanmar Agricultural Advisory Agent</a>
       year: 2026
       description:
-        - AI-powered bilingual agricultural advisory app built and deployed at Google Developers Community Build with AI MMDT 2026
-        - Full-stack application using Google Gemini 2.5 Flash via Vertex AI; Python + FastAPI backend deployed on Google Cloud Run
-        - "Tech Stack: Python · FastAPI · Gemini 2.5 Flash · Vertex AI · Google Cloud Run · Web Speech API · Tailwind CSS"
+        - Built and deployed an AI-powered bilingual agricultural advisory app for Myanmar farmers at Google Developers Community Build with AI MMDT 2026
+        - Used Google Gemini 2.5 Flash via Vertex AI, Python, FastAPI, Google Cloud Run, ADC, Web Speech API, Tailwind CSS, and Lucide Icons
+        - Supported Burmese voice/text input, structured advisory responses, and inline voice history playback for low-literacy field contexts
     - title: Chickpea Fusarium Wilt Detector — MSc Thesis
       year: 2024–2026
       description:
-        - Novel hybrid CNN achieving 82.09% cross-domain accuracy at 0.870 MB; validated on 115 real Android devices via Google AI Edge Portal
-        - Bilingual offline Android app (Kotlin, Jetpack Compose) for Myanmar smallholder farmers — full methodology reserved for upcoming publications
-        - "Tech Stack: PyTorch · TFLite/LiteRT · Kotlin · Jetpack Compose · Roboflow · Google AI Edge Portal"
+        - Designed a hybrid SqueezeNet + CBAM CNN achieving 82.09% cross-domain accuracy at 0.870 MB
+        - Applied INT8 static quantization with 3.31x model compression and zero accuracy degradation; validated on 115 real Android devices
+        - Built a fully offline bilingual Android application with Kotlin, Jetpack Compose, Material Design 3, and TFLite/LiteRT
     - title: Wikipedia Web Traffic Prediction via Time Series Modeling
       year: 2025
       description:
-        - Comparative study of 7 forecasting models on a 145,000-article Wikipedia Kaggle dataset
-        - Co-authored with Prof. Sandhya Avasthi, ABES Engineering College, India; submitted to journal (under revision)
+        - Compared 7 forecasting models on a 145,000-article Wikipedia Kaggle dataset using RMSE
+        - Co-authored with Prof. Sandhya Avasthi, ABES Engineering College, India; journal submission under revision
     - title: Bean Disease Classification via Stepwise CNN Fine-Tuning
       year: 2025
       description:
-        - Benchmarked 5 pretrained CNN architectures; designed a stepwise fine-tuning strategy achieving 98.86% test accuracy
-        - "Tech Stack: Python · TensorFlow/Keras · Kaggle GPU"
+        - Benchmarked VGG16, ResNet50, DenseNet121, EfficientNet-B0, and MobileNetV2; achieved 98.86% test accuracy using stepwise fine-tuning
+    - title: <a href="https://github.com/tklwin/Deep-Learning-Projects">MMDT Intro to Deep Learning Projects</a>
+      year: 2025
+      description:
+        - Completed four applied deep-learning projects with A+ grade, including BERT/DistilBERT Myanmar address-to-coordinate regression on 610,509 addresses
+        - Deployed a Streamlit + Plotly live demo on Hugging Face Spaces
+    - title: <a href="https://github.com/tklwin/ml-algorithms-from-scratch">ML Algorithms from Scratch</a>
+      year: 2025–2026
+      description:
+        - Implemented Linear Regression, Logistic Regression, Decision Tree, KNN, and Naive Bayes from first principles using NumPy
+        - Selected results include Naive Bayes 90.00% accuracy on Iris and KNN best k=5 at 72.73% on Pima Indians Diabetes
 
 - title: Certifications
   type: nested_list
   contents:
-    - title: Networking
-      items:
-        - Cisco Certified Network Associate (CCNA) — Expires July 2026
-    - title: Machine Learning & AI
+    - title: AI & Machine Learning
       items:
         - Convolutional Neural Networks in TensorFlow (DeepLearning.AI)
-        - Introduction to TensorFlow for AI, ML, and Deep Learning (DeepLearning.AI)
+        - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (DeepLearning.AI)
         - Foundations of Deep Learning A+ (Myanmar Data Tech)
+        - PY102 Data Structure B (Myanmar Data Tech)
         - Introduction to Natural Language Processing in Python (DataCamp)
     - title: Data & Analytics
       items:
-        - PY102 Data Structure B (Myanmar Data Tech)
         - Intermediate SQL (DataCamp)
         - Analyzing Data with Microsoft SQL, Power BI and Python
-    - title: Cloud & Infrastructure
+    - title: Cloud, Infrastructure & Security
       items:
+        - Cisco Certified Network Associate (CCNA) — Expires July 2026
         - Building Serverless Applications in AWS
         - Linux System Administration
         - DHIS2 — Introduction, Data Capture, Analysis, Customization, Events
         - NEC — NCPC (Smart Face Authentication), NCSE (NEC Server Hardware)
+        - WHO Mandatory Certificates — UN BSAFE, Cybersecurity, PSEA, Ethics in the United Nations
     - title: Language
       items:
         - IELTS Academic — Overall Band Score 6.5
@@ -114,28 +146,32 @@
     - title: Machine Learning & Deep Learning
       items:
         - "Python · PyTorch · TensorFlow · Keras · Scikit-learn · SciPy · NumPy · Pandas"
-        - "CNN architecture design · attention mechanisms (CBAM) · transfer learning · INT8 static quantization"
-        - "Statistical validation (Wilcoxon signed-rank, two-proportion z-test, Wilson CI, McNemar's test)"
+        - "CNN architecture design · CBAM attention · transfer learning · INT8 quantization · cross-domain generalization · Grad-CAM"
+        - "Ablation study design · 5-fold stratified cross-validation · Wilcoxon signed-rank · McNemar's test · Wilson confidence intervals"
     - title: Generative AI & LLM Integration
       items:
-        - "Google Gemini API (2.5 Flash) · Vertex AI · ADC · LLM prompt engineering"
-        - "FastAPI · Google Cloud Run · Web Speech API · Gemini CLI"
+        - "Google Gemini API 2.5 Flash · Vertex AI · ADC · FastAPI · Google Cloud Run · Web Speech API · Gemini CLI"
     - title: MLOps & Experiment Tracking
       items:
-        - "Weights & Biases (WandB) · Kaggle Notebooks (NVIDIA P100/T4)"
-        - "LiteRT conversion · INT8 quantization · Google AI Edge Portal"
+        - "Weights & Biases · Kaggle GPU notebooks · GitHub Codespaces · LiteRT conversion · Google AI Edge Portal · ptflops"
     - title: Mobile Development
       items:
         - "Kotlin · Jetpack Compose · Material Design 3 · Android SDK · TFLite Interpreter API"
     - title: Data & Analytics
       items:
-        - "R · SQL · Power BI · Looker Studio · QGIS · Excel · SPSS"
+        - "R · SQL · Power BI · Looker Studio · QGIS · Excel · SPSS · Orange Data Mining"
     - title: Cloud & Infrastructure
       items:
-        - "AWS · GCP · Azure · Huawei Cloud · OpenStack · VMware · Docker"
+        - "AWS · GCP · Azure · Huawei Cloud · OpenStack · VMware · Docker · Microsoft 365 · Google Workspace"
+    - title: Data Collection & Management
+      items:
+        - "KoBoToolbox · Roboflow · DHIS2 · OpenMRS · GIS dashboards · field data pipelines · Cohen's kappa annotation workflows"
     - title: Networking & Security
       items:
-        - "Cisco · MikroTik · Huawei · FortiGate · Linux System Administration · Zabbix"
+        - "Cisco · MikroTik · Huawei · FortiGate · Linux System Administration · Windows Server Administration · Zabbix"
+    - title: Professional Competencies
+      items:
+        - "Capacity Building · Cross-cultural Communication · Stakeholder Engagement · Training & Facilitation · Field Deployment"
 
 - title: Interests
   type: list
@@ -145,3 +181,6 @@
     - ICT4D
     - Digital Public Goods
     - Open Source
+    - Computer Vision
+    - Rural Development
+    - Food Security

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>"စိတ်ထားကောင်းဖို့ ပထမ"</a>
+subtitle: AI/ML Engineer · Data Scientist · Edge AI for agriculture, public health, and low-connectivity environments
 
 profile:
   align: right
@@ -22,11 +22,31 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 5 # leave blank to include all the blog posts
 ---
 
-**Thein Kyaw Lwin** is an AI/ML practitioner and data scientist with 7+ years of field-embedded technology experience across precision agriculture, public health, and enterprise IT. He designed and deployed a hybrid lightweight CNN (SqueezeNet CBAM V8) achieving 82.09% cross-domain accuracy at only 0.870 MB — validated on 115 real Android devices via Google AI Edge Portal. He also built and shipped a Gemini 2.5 Flash-powered bilingual agricultural advisory agent on Google Cloud Run, presented at Google Developers Community Build with AI MMDT 2026.
+**Thein Kyaw Lwin** is an AI/ML practitioner and data scientist with 7+ years of field-embedded technology experience across precision agriculture, public health, and enterprise IT. He builds practical AI systems from raw field data through production deployment, with a focus on edge AI, computer vision, generative AI, and data systems for resource-constrained environments.
 
-His deep domain expertise spans precision agriculture, ICT4D, and data-driven rural development, with a proven track record of building end-to-end AI pipelines from field data collection through to production deployment. He is committed to applying AI and machine learning for food security and sustainable agriculture in underserved communities.
+He is actively applying for **AI/ML Engineer, Data Scientist, AI Engineer, AgTech, ICT4D, and mission-aligned technology roles** in Southeast Asia, Singapore, Australia/New Zealand, and remote teams.
+
+### Selected proof points
+
+- Designed a hybrid lightweight CNN for chickpea disease detection, achieving **82.09% cross-domain accuracy** at **0.870 MB**, validated on **115 real Android devices** via Google AI Edge Portal.
+- Built and deployed **Shwe Taungthuu**, a Gemini 2.5 Flash bilingual agricultural advisory agent on Google Cloud Run, with Burmese voice/text input for Myanmar farmers.
+- Supported national-scale health data infrastructure at **WHO Myanmar**, including DHIS2/OpenMRS systems for **1,000+ users** with 99.99% uptime.
+- Built ICT-enabled agricultural data workflows at **CESVI Myanmar** reaching **130 villages and 26,234 households**, with farmer training for 2,000+ users.
+
+### Featured work
+
+- [Chickpea Fusarium Wilt Detector](/projects/chickpea_fusarium_wilt/) — offline Android edge-AI plant disease detection for smallholder farmers.
+- [Shwe Taungthuu](/projects/shwe_taungthuu/) — bilingual Gemini agricultural advisory agent on Google Cloud Run.
+- [MMDT Intro to Deep Learning Projects](/projects/mmdt_deep_learning_projects/) — BERT/DistilBERT geocoding, CNN benchmarking, NLP classification, and Singapore HDB price prediction.
+- [ML Algorithms from Scratch](/projects/ml_algorithms_from_scratch/) — classical ML implementations in NumPy with derivations and validation.
+
+### Core stack
+
+Python · PyTorch · TensorFlow/Keras · Scikit-learn · FastAPI · Vertex AI · Gemini API · Google Cloud Run · Kotlin · Jetpack Compose · TFLite/LiteRT · SQL · Power BI · QGIS · Docker · Linux
+
+For role-specific context, see the [CV](/cv/), [project portfolio](/projects/), [GitHub](https://github.com/tklwin), or [LinkedIn](https://www.linkedin.com/in/theinkyawlwin/).

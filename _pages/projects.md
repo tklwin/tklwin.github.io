@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected AI/ML, data science, edge AI, and ICT4D projects aligned with production deployment and applied research roles.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
