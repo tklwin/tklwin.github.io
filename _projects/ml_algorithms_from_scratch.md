@@ -3,7 +3,7 @@ layout: page
 title: ML Algorithms from Scratch
 description: Linear Regression, Logistic Regression, Decision Tree, KNN, and Naive Bayes implemented from scratch using NumPy — MSDS Coursework
 img: assets/img/projects/ml_scratch_thumb.jpg
-importance: 6
+importance: 7
 category: work
 related_publications: false
 github: https://github.com/tklwin/ml-algorithms-from-scratch

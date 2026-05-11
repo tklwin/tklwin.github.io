@@ -3,7 +3,7 @@ layout: page
 title: Bean Disease Classification
 description: Stepwise CNN fine-tuning achieving 98.86% test accuracy — MSDS coursework research
 img: assets/img/projects/bean_disease_thumb.jpg
-importance: 4
+importance: 5
 category: work
 related_publications: false
 github: https://github.com/tklwin/bean-disease-classification-finetuning

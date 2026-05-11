@@ -35,6 +35,7 @@ He is actively applying for **AI/ML Engineer, Data Scientist, AI Engineer, AgTec
 
 - Designed a hybrid lightweight CNN for chickpea disease detection, achieving **82.09% cross-domain accuracy** at **0.870 MB**, validated on **115 real Android devices** via Google AI Edge Portal.
 - Built and deployed **Shwe Taungthuu**, a Gemini 2.5 Flash bilingual agricultural advisory agent on Google Cloud Run, with Burmese voice/text input for Myanmar farmers.
+- Built **A2C Myanmar Address-to-Coordinates**, a transformer-based geospatial NLP system trained on **610,509 Myanmar addresses** with a live Streamlit map demo.
 - Supported national-scale health data infrastructure at **WHO Myanmar**, including DHIS2/OpenMRS systems for **1,000+ users** with 99.99% uptime.
 - Built ICT-enabled agricultural data workflows at **CESVI Myanmar** reaching **130 villages and 26,234 households**, with farmer training for 2,000+ users.
 
@@ -42,7 +43,8 @@ He is actively applying for **AI/ML Engineer, Data Scientist, AI Engineer, AgTec
 
 - [Chickpea Fusarium Wilt Detector](/projects/chickpea_fusarium_wilt/) — offline Android edge-AI plant disease detection for smallholder farmers.
 - [Shwe Taungthuu](/projects/shwe_taungthuu/) — bilingual Gemini agricultural advisory agent on Google Cloud Run.
-- [MMDT Intro to Deep Learning Projects](/projects/mmdt_deep_learning_projects/) — BERT/DistilBERT geocoding, CNN benchmarking, NLP classification, and Singapore HDB price prediction.
+- [A2C Myanmar Address-to-Coordinates](/projects/a2c_myanmar_geocoding/) — transformer-based geospatial NLP for Myanmar address geocoding.
+- [MMDT Intro to Deep Learning Projects](/projects/mmdt_deep_learning_projects/) — applied deep-learning coursework spanning tabular regression, NLP classification, and CNN benchmarking.
 - [ML Algorithms from Scratch](/projects/ml_algorithms_from_scratch/) — classical ML implementations in NumPy with derivations and validation.
 
 ### Core stack

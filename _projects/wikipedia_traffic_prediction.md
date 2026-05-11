@@ -3,7 +3,7 @@ layout: page
 title: Wikipedia Web Traffic Prediction
 description: Comparative time-series forecasting study on 145,000 Wikipedia articles — co-authored research paper under revision
 img: assets/img/projects/wikipedia_thumb.jpg
-importance: 3
+importance: 4
 category: work
 related_publications: false
 ---
