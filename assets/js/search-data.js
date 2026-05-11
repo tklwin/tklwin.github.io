@@ -119,7 +119,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-bean-disease-classification",
+          section: "News",},{id: "projects-a2c-myanmar-address-to-coordinates",
+          title: 'A2C Myanmar Address-to-Coordinates',
+          description: "Transformer-based geospatial NLP system predicting latitude/longitude from Myanmar addresses with a live Streamlit map demo",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/a2c_myanmar_geocoding/";
+            },},{id: "projects-bean-disease-classification",
           title: 'Bean Disease Classification',
           description: "Stepwise CNN fine-tuning achieving 98.86% test accuracy — MSDS coursework research",
           section: "Projects",handler: () => {
@@ -136,7 +141,7 @@ ninja.data = [{
               window.location.href = "/projects/ml_algorithms_from_scratch/";
             },},{id: "projects-mmdt-intro-to-deep-learning-projects",
           title: 'MMDT Intro to Deep Learning Projects',
-          description: "Four applied deep-learning projects covering tabular regression, NLP classification, CNN benchmarking, and BERT-based geocoding",
+          description: "Applied deep-learning coursework covering tabular regression, NLP classification, CNN benchmarking, and a separately featured geospatial NLP capstone",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mmdt_deep_learning_projects/";
             },},{id: "projects-shwe-taungthuu",
