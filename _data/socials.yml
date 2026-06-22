@@ -24,14 +24,14 @@ linkedin_username: theinkyawlwin # your LinkedIn user name
 # kaggle_id: theinkyawlwin # your kaggle id
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0006-3761-0365 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: W0FWE4gAAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
