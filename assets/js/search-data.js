@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Current role-focused CV for AI/ML Engineer, Data Scientist, AgTech, ICT4D, and mission-aligned technology opportunities.",
+          description: "Curriculum Vitae of Thein Kyaw Lwin — ML/AI Researcher &amp; Data Scientist specialising in computer vision, NLP, and edge AI.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -162,6 +162,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/wikipedia_traffic_prediction/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%74%68%65%69%6E.%6B%79%61%77.%6C%77%69%6E.%6F%66%66%69%63%69%61%6C@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
