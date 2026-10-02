@@ -147,9 +147,7 @@
       "startDate": "2025-01-01",
       "endDate": "",
       "summary": "Technical Mentorship",
-      "highlights": [
-        "Mentored students and junior developers in Python programming, algorithmic thinking, and foundational data science"
-      ]
+      "highlights": ["Mentored students and junior developers in Python programming, algorithmic thinking, and foundational data science"]
     }
   ],
   "education": [
@@ -162,10 +160,7 @@
       "startDate": "2026-09-01",
       "endDate": "",
       "score": "Currently Enrolled",
-      "courses": [
-        "Status: Currently Enrolled (Started Sep 2026)",
-        "Batangas State University (The National Engineering University)"
-      ]
+      "courses": ["Status: Currently Enrolled (Started Sep 2026)", "Batangas State University (The National Engineering University)"]
     },
     {
       "institution": "Batangas State University",
