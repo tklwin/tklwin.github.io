@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICCSCI 2026":
+  url: https://socs.binus.ac.id/iccsci-2026/
+  color: "#007acc"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICCSCI":
+  url: https://socs.binus.ac.id/iccsci-2026/
+  color: "#007acc"
 
-"Vision":
-  color: "#009f36"
+"Springer":
+  url: https://link.springer.com/journal/10579
+  color: "#e05d44"
+
+"ACM TALLIP":
+  url: https://dl.acm.org/journal/tallip
+  color: "#008080"
+
+"ICLR 2027":
+  url: https://iclr.cc/
+  color: "#7952b3"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#7952b3"

@@ -5,12 +5,12 @@ description: Hybrid lightweight CNN for on-device plant disease detection — MS
 img: assets/img/projects/chickpea_thumb.jpg
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
 **MSc Thesis Research** | Batangas State University | 2024–2026
 
-_Full methodology and dataset details are reserved for upcoming journal and conference publications._
+**Published Paper:** *A Systematic Ablation of CBAM Depth in SqueezeNet for Optimising Cross-Domain Chickpea Disease Detection*, Procedia Computer Science, Vol. 289, pp. 1259–1266, 2026 (ICCSCI 2026). [DOI: 10.1016/j.procs.2026.08.346](https://doi.org/10.1016/j.procs.2026.08.346) {% cite lwin2026systematic %}
 
 ---
 

@@ -7,13 +7,13 @@ first_name: Thein
 middle_name: Kyaw
 last_name: Lwin
 contact_note: >
-  Open to AI/ML Engineer, Data Scientist, AI Engineer, AgTech, ICT4D, and mission-aligned technology roles.
+  Open to ML/AI research, engineering, and data science collaborations across Southeast Asia, Singapore, Australia/New Zealand, and remote teams.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Portfolio of Thein Kyaw Lwin, an AI/ML practitioner and data scientist building edge AI, computer vision, generative AI, and data systems for agriculture, public health, and low-connectivity environments.
+  Portfolio of Thein Kyaw Lwin, an ML/AI researcher and data scientist specialising in computer vision, natural language processing (NLP), efficient deep learning, and edge AI.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: AI engineer, ML engineer, data scientist, edge AI, computer vision, agtech, ICT4D, public health data, Google Gemini, Vertex AI, Kotlin, TFLite # add your own keywords or leave empty
+keywords: ML researcher, AI engineer, data scientist, edge AI, computer vision, NLP, low-resource NLP, smart agriculture, SqueezeNet, CBAM, LiteRT, PyTorch, TensorFlow, Vertex AI, Google Cloud Run
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 😁 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -266,8 +266,8 @@ display_categories: ["tips&tricks"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Lwin]
+  first_name: [Thein Kyaw, Thein K., T. K., "Thein Kyaw"]
 
   style: apa
   locale: en

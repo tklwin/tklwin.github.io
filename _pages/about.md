@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI/ML Engineer · Data Scientist · Edge AI for agriculture, public health, and low-connectivity environments
+subtitle: ML/AI Researcher · Data Scientist · Computer Vision, NLP & Edge AI
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,28 +27,31 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-**Thein Kyaw Lwin** is an AI/ML practitioner and data scientist with 7+ years of field-embedded technology experience across precision agriculture, public health, and enterprise IT. He builds practical AI systems from raw field data through production deployment, with a focus on edge AI, computer vision, generative AI, and data systems for resource-constrained environments.
+**Thein Kyaw Lwin** is an ML/AI researcher and data scientist specialising in computer vision, natural language processing (NLP), efficient deep learning, and edge AI. He is currently pursuing a **Doctor of Philosophy in Engineering Education** at [Batangas State University](https://batstateu.edu.ph/), while serving as a **Research Assistant** at BatStateU and contributing as a **Researcher** at [MMDT-RISE](https://mmdt-rise.istarvz.com/en/about/). He holds a Master of Science in Data Science (GWA: 1.1250, highest is 1.0) from BatStateU as a fully funded IIE Myanmar Student Emergency Support (MSES) Fund Grantee.
 
-He is actively applying for **AI/ML Engineer, Data Scientist, AI Engineer, AgTech, ICT4D, and mission-aligned technology roles** in Southeast Asia, Singapore, Australia/New Zealand, and remote teams.
+He combines academic research with practical engineering to develop scalable AI solutions for real-world deployment. Supported by seven years of field technology experience across agriculture, public health, and enterprise IT, his research focuses on practical, scalable AI systems that bridge methodological innovation with real-world impact. Beyond research, he designs and delivers AI education initiatives, including developing an *"Introduction to Applied AI"* curriculum for Chin State youth and mentoring Python programming for Myanmar Data Tech.
 
 ### Selected proof points
 
-- Designed a hybrid lightweight CNN for chickpea disease detection, achieving **82.09% cross-domain accuracy** at **0.870 MB**, validated on **115 real Android devices** via Google AI Edge Portal.
-- Built and deployed **Shwe Taungthuu**, a Gemini 2.5 Flash bilingual agricultural advisory agent on Google Cloud Run, with Burmese voice/text input for Myanmar farmers.
-- Built **A2C Myanmar Address-to-Coordinates**, a transformer-based geospatial NLP system trained on **610,509 Myanmar addresses** with a live Streamlit map demo.
-- Supported national-scale health data infrastructure at **WHO Myanmar**, including DHIS2/OpenMRS systems for **1,000+ users** with 99.99% uptime.
-- Built ICT-enabled agricultural data workflows at **CESVI Myanmar** reaching **130 villages and 26,234 households**, with farmer training for 2,000+ users.
+- **Edge AI & Computer Vision:** Designed a hybrid lightweight CNN (SqueezeNet v1.1 + CBAM) for chickpea disease detection, achieving **82.09% cross-domain accuracy** at **0.870 MB** (3.31× compression via INT8 quantization), validated across **115 real Android devices** via Google AI Edge Portal; published in *Procedia Computer Science* (ICCSCI 2026).
+- **Low-Resource NLP & Transformers:** Co-authored research on Burmese grammar-driven text segmentation (*Language Resources and Evaluation*, Springer — under review), Burmese Named Entity Recognition (*ACM TALLIP* — under review), and text segmentation representation quality (*ICLR 2027* — submitted).
+- **Generative AI & LLM Systems:** Built and deployed **Shwe Taungthuu**, a Gemini 2.5 Flash bilingual agricultural advisory agent on Google Cloud Run with Burmese voice/text input (presented at Google Developers Community Build with AI MMDT 2026).
+- **Geospatial NLP:** Built **A2C Myanmar Address-to-Coordinates**, fine-tuning multilingual transformers on **610,509 Myanmar addresses** with a custom Haversine distance loss and a live Streamlit demo.
+- **Health Systems & Infrastructure:** Administered DHIS2 and OpenMRS eHealth infrastructure at **WHO Myanmar** for **1,000+ users** with **99.99% uptime**.
+- **ICT4D & Agriculture:** Built agricultural data pipelines at **CESVI Myanmar** reaching **130 villages and 26,234 households**, with mobile application training for 2,000+ farmers.
 
 ### Featured work
 
 - [Chickpea Fusarium Wilt Detector](/projects/chickpea_fusarium_wilt/) — offline Android edge-AI plant disease detection for smallholder farmers.
 - [Shwe Taungthuu](/projects/shwe_taungthuu/) — bilingual Gemini agricultural advisory agent on Google Cloud Run.
 - [A2C Myanmar Address-to-Coordinates](/projects/a2c_myanmar_geocoding/) — transformer-based geospatial NLP for Myanmar address geocoding.
-- [MMDT Intro to Deep Learning Projects](/projects/mmdt_deep_learning_projects/) — applied deep-learning coursework spanning tabular regression, NLP classification, and CNN benchmarking.
-- [ML Algorithms from Scratch](/projects/ml_algorithms_from_scratch/) — classical ML implementations in NumPy with derivations and validation.
+- [Bean Disease Classification](/projects/bean_disease_classification/) — stepwise CNN fine-tuning achieving 98.86% test accuracy.
+- [Wikipedia Web Traffic Prediction](/projects/wikipedia_traffic_prediction/) — comparative time-series forecasting study across 145,000 articles.
+- [ML Algorithms from Scratch](/projects/ml_algorithms_from_scratch/) — classical ML implementations in NumPy with first-principle derivations.
+- [MMDT Deep Learning Projects](/projects/mmdt_deep_learning_projects/) — applied deep-learning coursework spanning tabular regression, NLP, and CNN benchmarking.
 
 ### Core stack
 
-Python · PyTorch · TensorFlow/Keras · Scikit-learn · FastAPI · Vertex AI · Gemini API · Google Cloud Run · Kotlin · Jetpack Compose · TFLite/LiteRT · SQL · Power BI · QGIS · Docker · Linux
+PyTorch · TensorFlow/Keras · LiteRT · Vertex AI (Gemini 2.5 Flash) · Google Cloud Run · FastAPI · Python · R · SQL · QGIS · Docker · Linux · Android/Kotlin · Weights & Biases
 
-For role-specific context, see the [CV](/cv/), [project portfolio](/projects/), [GitHub](https://github.com/tklwin), or [LinkedIn](https://www.linkedin.com/in/theinkyawlwin/).
+For detailed background, see the [CV](/cv/), [publications](/publications/), [project portfolio](/projects/), [GitHub](https://github.com/tklwin), or [LinkedIn](https://www.linkedin.com/in/theinkyawlwin/).
