@@ -4,7 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - tklwin/chickpea-mobile
   - tklwin/bean-disease-classification-finetuning
   - tklwin/ml-algorithms-from-scratch
 #  - twbs/bootstrap

@@ -128,26 +128,6 @@
       "highlights": [
         "Contribute to AI and language technology research, with a focus on low-resource language applications (Burmese NLP, text segmentation, and NER)"
       ]
-    },
-    {
-      "organization": "Chin State Youth Initiative",
-      "position": "Curriculum Developer & Educator",
-      "url": "",
-      "startDate": "2026-01-01",
-      "endDate": "",
-      "summary": "AI Education for Underserved Youth",
-      "highlights": [
-        "Developed 'Introduction to Applied AI' curriculum for Chin State youth to foster practical AI literacy and technological capability"
-      ]
-    },
-    {
-      "organization": "Myanmar Data Tech (MMDT)",
-      "position": "Python Programming Mentor",
-      "url": "",
-      "startDate": "2025-01-01",
-      "endDate": "",
-      "summary": "Technical Mentorship",
-      "highlights": ["Mentored students and junior developers in Python programming, algorithmic thinking, and foundational data science"]
     }
   ],
   "education": [
@@ -443,12 +423,12 @@
     {
       "name": "Dr. Rowell M. Hernandez",
       "icon": "fa-solid fa-user-tie",
-      "reference": "Thesis Advisor / Head, External Affairs - Alangilan Campus. College of Informatics and Computing Sciences, Batangas State University - Alangilan Campus. Email: rowell.hernandez@g.batstate-u.edu.ph"
+      "reference": "Thesis Advisor / Head, External Affairs - Alangilan Campus. College of Informatics and Computing Sciences, Batangas State University - Alangilan Campus."
     },
     {
       "name": "Dr. Princess Marie B. Melo",
       "icon": "fa-solid fa-user-tie",
-      "reference": "Colleague Dean. College of Informatics and Computing Sciences, Batangas State University - Alangilan Campus. Email: princessmarie.melo@g.batstate-u.edu.ph"
+      "reference": "Colleague Dean. College of Informatics and Computing Sciences, Batangas State University - Alangilan Campus."
     }
   ],
   "projects": [

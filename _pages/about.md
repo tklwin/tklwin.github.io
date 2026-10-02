@@ -29,7 +29,7 @@ latest_posts:
 
 **Thein Kyaw Lwin** is an ML/AI researcher and data scientist specialising in computer vision, natural language processing (NLP), efficient deep learning, and edge AI. He is currently pursuing a **Doctor of Philosophy in Engineering Education** at [Batangas State University](https://batstateu.edu.ph/), while serving as a **Research Assistant** at BatStateU and contributing as a **Researcher** at [MMDT-RISE](https://mmdt-rise.istarvz.com/en/about/). He holds a Master of Science in Data Science (GWA: 1.1250, highest is 1.0) from BatStateU as a fully funded IIE Myanmar Student Emergency Support (MSES) Fund Grantee.
 
-He combines academic research with practical engineering to develop scalable AI solutions for real-world deployment. Supported by seven years of field technology experience across agriculture, public health, and enterprise IT, his research focuses on practical, scalable AI systems that bridge methodological innovation with real-world impact. Beyond research, he designs and delivers AI education initiatives, including developing an _"Introduction to Applied AI"_ curriculum for Chin State youth and mentoring Python programming for Myanmar Data Tech.
+He combines academic research with practical engineering to develop scalable AI solutions for real-world deployment. Supported by seven years of field technology experience across agriculture, public health, and enterprise IT, his research focuses on practical, scalable AI systems that bridge methodological innovation with real-world impact.
 
 ### Selected proof points
 

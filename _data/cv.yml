@@ -25,7 +25,6 @@
     - Currently pursuing a Doctor of Philosophy in Engineering Education at Batangas State University, serving as a Research Assistant at Batangas State University, and contributing as a Researcher at MMDT-RISE.
     - Combines academic research with practical engineering to develop scalable AI solutions for real-world deployment across agriculture, public health, and enterprise IT.
     - Expertise includes deep learning frameworks (PyTorch, TensorFlow, LiteRT), cloud-native AI systems (GCP, AWS, Docker, FastAPI), data analytics (Python, SQL, GIS), and edge model optimization.
-    - Designs and delivers AI education initiatives, including developing an "Introduction to Applied AI" curriculum for Chin State youth and mentoring Python programming for Myanmar Data Tech.
     - Supported by seven years of field technology experience bridging methodological innovation with real-world impact.
 
 - title: Education
@@ -181,12 +180,6 @@
         - "Implemented 5 core algorithms (Linear Regression, Logistic Regression, Decision Tree, KNN, Naive Bayes) from first principles using NumPy, documented with step-by-step derivations, formulas, and visualisations"
         - 'GitHub: <a href="https://github.com/tklwin/ml-algorithms-from-scratch" target="_blank">github.com/tklwin/ml-algorithms-from-scratch</a>'
 
-- title: AI Education & Mentorship
-  type: list
-  contents:
-    - 'Developed an "Introduction to Applied AI" curriculum for Chin State youth to advance digital literacy and practical AI capability.'
-    - Mentored students and aspiring programmers in Python programming and foundational data structures for Myanmar Data Tech (MMDT).
-
 - title: Skills
   type: nested_list
   contents:
@@ -250,10 +243,8 @@
       institution: Batangas State University - Alangilan Campus
       description:
         - "Role: Thesis Advisor / Head, External Affairs - Alangilan Campus"
-        - 'Email: <a href="mailto:rowell.hernandez@g.batstate-u.edu.ph">rowell.hernandez@g.batstate-u.edu.ph</a>'
     - title: Dr. Princess Marie B. Melo
       department: College of Informatics and Computing Sciences
       institution: Batangas State University - Alangilan Campus
       description:
         - "Role: Colleague Dean"
-        - 'Email: <a href="mailto:princessmarie.melo@g.batstate-u.edu.ph">princessmarie.melo@g.batstate-u.edu.ph</a>'
