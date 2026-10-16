@@ -1,0 +1,58 @@
+# -- Theme Options --
+# Clean and minimal configuration inspired by Antoine Soetewey
+
+colorScheme = "slate"
+defaultAppearance = "light"
+autoSwitchAppearance = false
+
+defaultThemeColor = "#FFFFFF"
+
+enableSearch = false
+enableCodeCopy = true
+enableImageLazyLoading = true
+enableImageWebp = true
+
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true # Allows visitor to toggle light/dark mode
+  showScrollToTop = false
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+
+[article]
+  showDate = false
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = false
+  showDraftLabel = false
+  showEdit = false
+  showHeadingAnchors = false
+  showPagination = false
+  showReadingTime = false
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+
+[list]
+  showBreadcrumbs = false
+  showSummary = true
+  showTableOfContents = false
+  showTaxonomies = false
+  groupByYear = false
+  paginationWidth = 1
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true

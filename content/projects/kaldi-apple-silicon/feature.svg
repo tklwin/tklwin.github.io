@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="450" fill="url(#bg)" rx="16"/>
+  <rect x="2" y="2" width="796" height="446" fill="none" stroke="#334155" stroke-width="2" rx="14"/>
+
+  <!-- Waveform lines in background -->
+  <g opacity="0.15" stroke="#38bdf8" stroke-width="2">
+    <line x1="60" y1="225" x2="60" y2="225"/>
+    <line x1="80" y1="205" x2="80" y2="245"/>
+    <line x1="100" y1="185" x2="100" y2="265"/>
+    <line x1="120" y1="150" x2="120" y2="300"/>
+    <line x1="140" y1="190" x2="140" y2="260"/>
+    <line x1="160" y1="140" x2="160" y2="310"/>
+    <line x1="180" y1="110" x2="180" y2="340"/>
+    <line x1="200" y1="160" x2="200" y2="290"/>
+    <line x1="600" y1="180" x2="600" y2="270"/>
+    <line x1="620" y1="130" x2="620" y2="320"/>
+    <line x1="640" y1="170" x2="640" y2="280"/>
+    <line x1="660" y1="140" x2="660" y2="310"/>
+    <line x1="680" y1="190" x2="680" y2="260"/>
+    <line x1="700" y1="160" x2="700" y2="290"/>
+    <line x1="720" y1="205" x2="720" y2="245"/>
+    <line x1="740" y1="225" x2="740" y2="225"/>
+  </g>
+
+  <!-- Chip Container Icon -->
+  <g transform="translate(70, 70)">
+    <rect x="0" y="0" width="76" height="76" rx="14" fill="#1e293b" stroke="#475569" stroke-width="2"/>
+    <!-- Terminal / Docker Symbol -->
+    <path d="M18 48 L32 38 L18 28" fill="none" stroke="#38bdf8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="38" y1="48" x2="56" y2="48" stroke="#818cf8" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Badge Pill -->
+  <g transform="translate(166, 88)">
+    <rect width="180" height="32" rx="16" fill="#0369a1" fill-opacity="0.25" stroke="#0284c7" stroke-width="1"/>
+    <text x="90" y="21" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" text-anchor="middle">ARM64 · Apple Silicon</text>
+  </g>
+
+  <!-- Title & Subtitle -->
+  <text x="70" y="215" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" letter-spacing="-0.02em">
+    Kaldi ASR for Apple Silicon
+  </text>
+  <text x="70" y="260" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="400">
+    Native ARM64 Docker image with OpenBLAS &amp; NEON vectorization
+  </text>
+
+  <!-- Command box -->
+  <g transform="translate(70, 305)">
+    <rect width="460" height="48" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+    <text x="24" y="30" fill="#38bdf8" font-family="'SF Mono', Menlo, Consolas, Monaco, monospace" font-size="15" font-weight="600">
+      docker pull tklwin/kaldi-apple-silicon
+    </text>
+  </g>
+
+  <!-- Badges footer -->
+  <g transform="translate(70, 385)">
+    <rect x="0" y="0" width="85" height="26" rx="6" fill="#334155"/>
+    <text x="42.5" y="17" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" text-anchor="middle">OpenBLAS</text>
+
+    <rect x="95" y="0" width="85" height="26" rx="6" fill="#334155"/>
+    <text x="137.5" y="17" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" text-anchor="middle">ARM NEON</text>
+
+    <rect x="190" y="0" width="85" height="26" rx="6" fill="#334155"/>
+    <text x="232.5" y="17" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" text-anchor="middle">~1.57 GB</text>
+
+    <rect x="285" y="0" width="115" height="26" rx="6" fill="#334155"/>
+    <text x="342.5" y="17" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" text-anchor="middle">Python 3.11</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+locale = "en"
+label = "English"
+direction = "ltr"
+weight = 1
+
+title = "Thein Kyaw Lwin"
+copyright = "&copy; 2026 Thein Kyaw Lwin"
+
+[params]
+  dateFormat = "2 January 2006"
+  mainSections = ["projects", "posts"]
+  description = "Personal website of Thein Kyaw Lwin, ML/AI researcher and data scientist."
+
+[params.author]
+  name = "Thein Kyaw Lwin"
+  image = "img/tklwin.jpg"
+  headline = "ML/AI Researcher · Data Scientist"
+  bio = "ML/AI researcher and data scientist specializing in computer vision, low-resource NLP, and edge AI."
+  links = [
+    { github = "https://github.com/tklwin" },
+    { linkedin = "https://www.linkedin.com/in/theinkyawlwin/" },
+    { youtube = "https://youtube.com/@tklwin1" },
+    { google-scholar = "https://scholar.google.com/citations?user=W0FWE4gAAAAJ" },
+    { orcid = "https://orcid.org/0009-0006-3761-0365" },
+  ]

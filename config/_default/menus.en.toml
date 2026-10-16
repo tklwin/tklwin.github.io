@@ -1,0 +1,41 @@
+# -- Main Menu --
+# Clean, minimal lowercase navigation
+
+[[main]]
+  name = "about"
+  url = "/about/"
+  weight = 10
+
+[[main]]
+  name = "projects"
+  url = "/projects/"
+  weight = 20
+
+[[main]]
+  name = "publications"
+  url = "/publications/"
+  weight = 30
+
+[[main]]
+  name = "cv"
+  url = "/cv/"
+  weight = 40
+
+[[main]]
+  name = "posts"
+  url = "/posts/"
+  weight = 50
+
+[[main]]
+  name = "books"
+  url = "/books/"
+  weight = 60
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/tklwin"
+  weight = 70
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
