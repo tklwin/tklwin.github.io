@@ -2,13 +2,13 @@
 title: "Wikipedia Web Traffic Prediction"
 date: 2025-08-20
 weight: 4
-description: "Comparative time-series forecasting study on 145,000 Wikipedia articles — co-authored research paper under revision"
+description: "Comparative time-series forecasting study on 145,000 Wikipedia articles — co-authored paper accepted in Scientific Reports"
 summary: "A rigorous comparative study of 7 time-series forecasting algorithms across 145,000 articles, evaluating RMSE across statistical and deep learning approaches."
 tags: ["Time-Series", "R", "ARIMA", "Prophet", "LSTM", "Forecasting", "Data Science"]
 showTableOfContents: true
 ---
 
-**Research Paper (Under Revision)** | Co-authored with Prof. Sandhya Avasthi, ABES Engineering College, India | 2025
+**Research Paper (Accepted, *Scientific Reports*)** | Co-authored with Prof. Sandhya Avasthi, ABES Engineering College, India | 2025
 
 ---
 
@@ -32,6 +32,6 @@ Contrary to prevailing assumptions that recurrent neural networks (LSTMs) consis
 
 ### International Collaboration
 
-This research represents a successful academic cross-border collaboration between **Batangas State University (Philippines)** and **ABES Engineering College (India)**. The full paper has been submitted to a peer-reviewed journal and is currently undergoing revision.
+This research represents a successful academic cross-border collaboration between **Batangas State University (Philippines)** and **ABES Engineering College (India)**. The full paper has been accepted for publication in *Scientific Reports* (Springer Nature).
 
 **Tech Stack:** R · Time-Series Analysis · ARIMA · Prophet · LSTM · Kaggle GPU

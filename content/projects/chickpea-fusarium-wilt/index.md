@@ -9,7 +9,7 @@ showTableOfContents: true
 ---
 
 **MSc Thesis Research** | Batangas State University | 2024–2026  
-**Published Paper:** *A Systematic Ablation of CBAM Depth in SqueezeNet for Optimising Cross-Domain Chickpea Disease Detection*, Procedia Computer Science, Vol. 289, pp. 1259–1266, 2026 (ICCSCI 2026). [DOI: 10.1016/j.procs.2026.08.346](https://doi.org/10.1016/j.procs.2026.08.346)
+**Published Paper:** *A Systematic Ablation of CBAM Depth in SqueezeNet for Optimizing Cross-Domain Chickpea Disease Detection*, Procedia Computer Science, Vol. 289, pp. 1259–1266, 2026 (ICCSCI 2026). [DOI: 10.1016/j.procs.2026.08.346](https://doi.org/10.1016/j.procs.2026.08.346)
 
 ---
 
@@ -19,7 +19,7 @@ A production-ready Android application that detects **Chickpea Fusarium Wilt** f
 
 ### Key Results
 
-- **82.09% cross-domain accuracy** on an unseen real-world Myanmar field test set, outperforming MobileNetV2, EfficientNet-B0, and ShuffleNet.
+- **82.09% cross-domain accuracy** on an unseen real-world Myanmar field test set, outperforming MobileNetV2 and EfficientNet-B0, and matching ShuffleNetV2 (statistical parity) with 41% fewer parameters.
 - **0.870 MB model size** after static INT8 quantization (a 3.31× compression factor from the 2.88 MB FP32 baseline) with zero accuracy degradation.
 - **Validated across 115 real physical Android devices** via Google AI Edge Portal (private preview).
 - **Sub-75ms worst-case inference** (73.7 ms) on entry-level CPU-only hardware, compatible with 2 GB RAM devices and Android 9.0+.
@@ -28,7 +28,7 @@ A production-ready Android application that detects **Chickpea Fusarium Wilt** f
 
 - **Novel Architecture:** Designed a hybrid CNN combining SqueezeNet v1.1 with Convolutional Block Attention Modules (CBAM), conducting systematic ablation across network depths to identify optimal attention placement.
 - **Rigorous Quantization:** Engineered an INT8 static quantization calibration pipeline tailored for edge tensor runtimes (LiteRT / TensorFlow Lite).
-- **Primary Field Dataset:** Personally collected and curated field imagery from chickpea-growing farming communities across Myanmar, annotated in collaboration with professional agronomists and validated using Cohen's kappa coefficient.
+- **Primary Field Dataset:** Organised the collection and curation of field imagery from chickpea-growing farming communities across Myanmar, annotated in collaboration with professional agronomists and validated using Cohen's kappa coefficient.
 - **Bilingual Mobile Application:** Built a modern, native Android client using Kotlin, Jetpack Compose, Material Design 3, and LiteRT.
 
 ### Why It Matters

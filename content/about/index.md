@@ -12,6 +12,7 @@ I graduated with a **Master of Science in Data Science** (General Weighted Avera
 
 My research interests center on developing lightweight and resource-efficient AI models tailored for field conditions and low-resource settings:
 
+- **Robust Computer Vision under Domain Shift:** Making models trained on public data reliable on real field images from other countries, seasons, and devices, including recognising when a prediction should not be trusted.
 - **Edge AI & Model Compression:** Designing compact architectures (such as attention-augmented CNNs) and applying static quantization to run deep learning models offline on consumer mobile devices.
 - **Low-Resource NLP:** Researching text segmentation, named entity recognition, and linguistic representation for the Myanmar (Burmese) language.
 - **Smart Agriculture:** Building offline-capable diagnostic tools for crop diseases to assist smallholder farming communities without reliable internet connectivity.
