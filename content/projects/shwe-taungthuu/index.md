@@ -9,15 +9,13 @@ showTableOfContents: true
 ---
 
 **Google Developers Community Build with AI MMDT 2026** | 2026  
-[**Launch Live Application &rarr;**](https://myanmar-agri-agent-599279558972.us-central1.run.app)
+*Live demo temporarily offline while hosting is being moved.*
 
 ---
 
 ### Overview
 
-**Shwe Taungthuu** (ရွှေတောင်သူ — "Golden Farmer") is a production, full-stack agricultural AI assistant that empowers Myanmar farmers to query crop health, soil management, and pest remedies in Burmese through natural speech or text. Structured, agronomy-aligned advisory responses are generated in real-time by **Google Gemini 2.5 Flash via Vertex AI**.
-
-{{< button href="https://myanmar-agri-agent-599279558972.us-central1.run.app" target="_blank" >}}Try Live Application{{< /button >}}
+**Shwe Taungthuu** (ရွှေတောင်သူ — "Golden Farmer") is a full-stack agricultural AI assistant that empowers Myanmar farmers to query crop health, soil management, and pest remedies in Burmese through natural speech or text. Structured, agronomy-aligned advisory responses are generated in real-time by **Google Gemini 2.5 Flash via Vertex AI**.
 
 ### Architectural Highlights
 

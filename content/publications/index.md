@@ -88,7 +88,7 @@ Myo Thida, Nu Wai Thet, and **Thein Kyaw Lwin**
 ### Burmese Named Entity Recognition: Annotated Corpus and Multilingual Transformer Benchmark
 
 Myo Thida, Nu Wai Thet, Khine Zar Thwe, and **Thein Kyaw Lwin**  
-*ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)* — Under peer review (2026)
+*ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)* — Under peer review
 
 <details class="text-sm my-2">
 <summary class="cursor-pointer font-medium text-primary-600 dark:text-primary-400">BibTeX</summary>

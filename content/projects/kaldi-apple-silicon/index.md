@@ -1,7 +1,7 @@
 ---
 title: "Kaldi ASR for Apple Silicon"
 date: 2026-10-15
-weight: 2
+weight: 3
 description: "Native ARM64 Docker container for Kaldi ASR on Apple Silicon Macs (M1/M2/M3/M4) with OpenBLAS and ARM NEON acceleration."
 summary: "A native ARM64 Docker container for Kaldi ASR on Apple Silicon Macs, eliminating x86 QEMU emulation overhead with OpenBLAS and NEON vectorization."
 tags: ["Kaldi", "ASR", "Speech Recognition", "Docker", "Apple Silicon", "ARM64"]

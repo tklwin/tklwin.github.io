@@ -24,6 +24,8 @@ A production-ready Android application that detects **Chickpea Fusarium Wilt** f
 - **Validated across 115 real physical Android devices** via Google AI Edge Portal (private preview).
 - **Sub-75ms worst-case inference** (73.7 ms) on entry-level CPU-only hardware, compatible with 2 GB RAM devices and Android 9.0+.
 
+{{< figure src="accuracy.png" alt="Bar chart of cross-domain accuracy on the Myanmar field test set for the proposed SqueezeNet-CBAM V8 and four lightweight baselines" caption="Accuracy on the unseen Myanmar field test set (n = 268), best and median of 15 runs per model; parameter counts below each name. The proposed model (green) matches ShuffleNetV2 with 41% fewer parameters. Source: MSc thesis." >}}
+
 ### Technical Contributions
 
 - **Novel Architecture:** Designed a hybrid CNN combining SqueezeNet v1.1 with Convolutional Block Attention Modules (CBAM), conducting systematic ablation across network depths to identify optimal attention placement.

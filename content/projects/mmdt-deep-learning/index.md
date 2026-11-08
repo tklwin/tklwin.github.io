@@ -1,7 +1,7 @@
 ---
 title: "MMDT Applied Deep Learning Projects"
 date: 2025-05-10
-weight: 6
+weight: 7
 description: "Applied deep-learning coursework covering tabular regression, NLP classification, and CNN benchmarking — Myanmar Data Tech (Grade: A+)"
 summary: "Coursework portfolio spanning tabular neural network regression (HDB housing), Burmese NLP location classification, and vision benchmark suites."
 tags: ["Deep Learning", "PyTorch", "NLP", "Computer Vision", "Regression", "Tabular"]

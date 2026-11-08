@@ -1,7 +1,7 @@
 ---
 title: "Wikipedia Web Traffic Prediction"
 date: 2025-08-20
-weight: 4
+weight: 5
 description: "Comparative time-series forecasting study on 145,000 Wikipedia articles — co-authored paper accepted in Scientific Reports"
 summary: "A rigorous comparative study of 7 time-series forecasting algorithms across 145,000 articles, evaluating RMSE across statistical and deep learning approaches."
 tags: ["Time-Series", "R", "ARIMA", "Prophet", "LSTM", "Forecasting", "Data Science"]

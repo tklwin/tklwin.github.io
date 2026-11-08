@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Algorithms from Scratch"
 date: 2025-04-10
-weight: 7
+weight: 8
 description: "Linear Regression, Logistic Regression, Decision Tree, KNN, and Naive Bayes implemented from first principles using NumPy — MSDS Coursework"
 summary: "First-principles implementation of 5 foundational ML algorithms purely in NumPy, complete with analytical derivations, mathematical proofs, and visual plots."
 tags: ["Machine Learning", "NumPy", "Python", "Mathematics", "From Scratch"]

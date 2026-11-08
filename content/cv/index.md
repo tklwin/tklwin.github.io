@@ -14,6 +14,8 @@ layout: "simple"
 
 ML/AI researcher and data scientist specializing in computer vision, low-resource NLP, and edge AI. Master of Science in Data Science from Batangas State University. Experience spanning academic research, healthcare data infrastructure (WHO Myanmar), agricultural data systems (CESVI Myanmar), and enterprise telecommunications (Huawei Technologies).
 
+**Research interests:** robust and reliable computer vision under real-world domain shift · efficient edge AI (quantization, knowledge distillation, on-device evaluation) · agricultural AI for smallholder farmers in Southeast Asia · low-resource language technology (Burmese).
+
 ---
 
 ## Education
@@ -49,6 +51,17 @@ ML/AI researcher and data scientist specializing in computer vision, low-resourc
   - Commissioned and maintained enterprise cloud and carrier infrastructure (MPT, Ooredoo, Telenor, CB Bank).
 - 2017 – 2018: **Junior Network Engineer** — ISGM Co., Ltd., Myanmar
   - Server administration, virtualization, and network infrastructure audit support for NEC Japan.
+
+---
+
+## Publications
+
+- **T. K. Lwin**, R. M. Hernandez, P. M. B. Melo, P. I. C. De Chavez, L. H. Macatangay. *A Systematic Ablation of CBAM Depth in SqueezeNet for Optimizing Cross-Domain Chickpea Disease Detection.* Procedia Computer Science 289, 1259–1266, 2026 (ICCSCI 2026). [DOI](https://doi.org/10.1016/j.procs.2026.08.346)
+- S. L. Tripathi, S. Avasthi, **T. K. Lwin**, I. Wijayanto. *Time Series Modeling and Anomaly Removal for Wikipedia Web Traffic Prediction.* Scientific Reports — accepted.
+- M. Thida, N. W. Thet, K. Z. Thwe, **T. K. Lwin**. *Burmese Named Entity Recognition: Annotated Corpus and Multilingual Transformer Benchmark.* ACM TALLIP — under review.
+- M. Thida, N. W. Thet, **T. K. Lwin**. *Grammar-Driven Text Segmentation for Context Understanding of Myanmar Language.* Language Resources and Evaluation — under review. [Preprint](https://doi.org/10.21203/rs.3.rs-8408602/v1)
+
+Details and BibTeX: [Publications](/publications/).
 
 ---
 

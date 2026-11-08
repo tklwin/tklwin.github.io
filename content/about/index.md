@@ -19,7 +19,7 @@ My research interests center on developing lightweight and resource-efficient AI
 
 ### Background
 
-Before focusing on academic research, I spent several years working in systems and network engineering:
+Before focusing on academic research, I spent several years in health-data, agricultural-data and network engineering roles:
 
 - **World Health Organization (WHO Myanmar):** Administered national eHealth infrastructure (DHIS2, OpenMRS) supporting data collection and health indicators for over 1,000 public health users.
 - **CESVI Myanmar:** Developed agricultural data pipelines and mobile reporting tools across 130 villages in the Dry Zone, training local farming communities in digital tools.

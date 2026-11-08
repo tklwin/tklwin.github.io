@@ -1,7 +1,7 @@
 ---
 title: "Bean Disease Classification"
 date: 2025-06-15
-weight: 5
+weight: 6
 description: "Stepwise CNN fine-tuning achieving 98.86% test accuracy — MSDS coursework research"
 summary: "Comparative benchmark of 5 pretrained CNN architectures with a progressive stepwise fine-tuning pipeline on ResNet50 reaching 98.86% test accuracy."
 tags: ["Computer Vision", "TensorFlow", "Keras", "Transfer Learning", "ResNet50", "Deep Learning"]

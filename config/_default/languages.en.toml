@@ -14,7 +14,7 @@ copyright = "&copy; 2026 Thein Kyaw Lwin"
 [params.author]
   name = "Thein Kyaw Lwin"
   image = "img/tklwin.jpg"
-  headline = "ML/AI Researcher · Data Scientist"
+  headline = "ML/AI Researcher · Robust Edge Computer Vision & Low-Resource NLP"
   bio = "ML/AI researcher and data scientist specializing in computer vision, low-resource NLP, and edge AI."
   links = [
     { github = "https://github.com/tklwin" },

@@ -1,7 +1,7 @@
 ---
 title: "A2C Myanmar Address-to-Coordinates"
 date: 2025-11-10
-weight: 3
+weight: 4
 description: "Transformer-based geospatial NLP system predicting latitude/longitude from Myanmar addresses with a live Streamlit map demo"
 summary: "Transformer-based geospatial NLP system fine-tuning multilingual BERT on 610,509 Myanmar addresses with a custom Haversine distance loss and Streamlit demo."
 tags: ["Geospatial AI", "NLP", "Transformers", "BERT", "Streamlit", "Plotly", "PyTorch"]
